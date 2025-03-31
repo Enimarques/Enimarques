@@ -1,4 +1,9 @@
-## Hi there 👋
+# Enimarques Filho 🧑‍💻👋
+**`Desenvolvedor FullStack em formação`**
+
+
+Me chamo Enimarques Vieira de Oliveira Filho, tenho 25 anos e sou natural de Tailândia, Pará. Sou Técnico em Informática concursado na Câmara Municipal de Parauapebas e graduado em Sistemas de Informação pela Universidade Cruzeiro do Sul. Apaixonado por tecnologia, estou sempre buscando aprender e evoluir no desenvolvimento web. Atualmente, trabalhando no desenvolvimento de sistemas para gestão e monitoramento, utilizando ferramentas modernas para otimizar processos.
+
 
 <!--
 **Enimarques/Enimarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
